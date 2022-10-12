@@ -1,0 +1,19 @@
+.nav--icon {
+    width: 70px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.navbar {
+    height: 100px;
+    background-color: #21222A;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav--title-left{
+    margin-right: auto;
+    color: aqua;
+    font-weight: 700;
+}
+
